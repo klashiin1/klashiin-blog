@@ -4,6 +4,7 @@ description: "A walkthrough-style guide/tracker for a Hardcore Nuzlocke of Pokem
 pubDate: "2026-01-04"
 tags: ["games", "pokemon", "nuzlocke", "guides", "nintendo"]
 heroImage: "../../../public/images/emerald_wallpaper.jpg"
+draft: true
 ---
 # Pokemon Emerald Nuzlocke Guide
 

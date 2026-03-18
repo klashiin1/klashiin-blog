@@ -4,6 +4,7 @@ description: "Lorem ipsum dolor sit amet"
 pubDate: "2026-04-02"
 tags: ["games", "builds", "souls", "fromsoftware", "guides"]
 heroImage: "../../../public/images/malenia_wallpaper.jpg"
+draft: true
 ---
 # Elden Ring DEX Build Guide
 
